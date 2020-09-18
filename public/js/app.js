@@ -1,5 +1,5 @@
 console.log('Client side javascript file is loaded!')
-const basicUrl = 'http://localhost:3000/weather?address='
+const basicUrl = '/weather?address='
 
 
 const weatherForm = document.querySelector('form')
